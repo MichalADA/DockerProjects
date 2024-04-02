@@ -1,0 +1,5 @@
+how to run 
+docker build -t strona .
+docker run -d -p 8080:80 strona
+
+
